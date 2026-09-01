@@ -1,0 +1,12 @@
+# C/C++ build products
+*.o
+*.obj
+*.out
+*.exe
+
+# Executables generated from the current source files
+/test1
+
+# Debugger and crash output
+core
+core.*
