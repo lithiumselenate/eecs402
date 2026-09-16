@@ -3,9 +3,11 @@
 *.obj
 *.out
 *.exe
+*.pdf
 
 # Executables generated from the current source files
 /test1
+typescript
 
 # Debugger and crash output
 core
